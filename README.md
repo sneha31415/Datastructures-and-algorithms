@@ -1,3 +1,8 @@
-This is my implementation of various data structures and algorithms in Java.
-<br>
-It also contains some important questions from each data structure
+This repository is currently under work
+
+### Its purpose :
+- Have the implementations of all data structures 
+- Have the most asked interview Questions from each topic
+
+### What's left ?
+- add the details of each question in the solution file of each
